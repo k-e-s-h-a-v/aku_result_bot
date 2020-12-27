@@ -51,4 +51,4 @@ for reg_no in reg_numlist:
 #Saving the workbook
 wb.save('result.xls')
 
-print('''\n "result.xls" saved to folder \n C:\\Users\keshav\AppData\Local\ \n Programs\Python\Python39\\aku_result_checker''')
+print('''\n "result.xls" saved to the same folder as your program''')
