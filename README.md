@@ -1,6 +1,6 @@
 # aku_result_bot
 I created a simple python program to check the results of my friends. 
-python modules used: urllib and xlwt
+python modules used: urllib and xlwt \n
 this program checks the result one by one and saves in 'result.xls'
 I tried module xlsxwriter but had some compatiblity issues in python 3.9 or maybe I am too lazy
 may try to fix it in future.... or not ;)
