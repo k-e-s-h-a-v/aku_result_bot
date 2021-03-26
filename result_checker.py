@@ -12,10 +12,8 @@ ini=['Reg_No.','Name','SGPA']
 for m in range(3):
     sheet1.write(1, 1+m, ini[m])
     
-'''This is list of Registration numbers
-if yours is missing simply add it in the end by +[12345678910]
-where '12345678910' is your reg no'''
-reg_numlist=list(range(18103108001,18103108057))+[19104108905,19103108902]    
+'''This is list of Registration numbers'''
+reg_numlist=[put the list of Registration Numbers here]
 
 count=0
 for reg_no in reg_numlist:
