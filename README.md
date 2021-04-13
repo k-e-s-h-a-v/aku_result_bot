@@ -9,5 +9,5 @@
 * may try to fix it in future.... or not :stuck_out_tongue_winking_eye:
 * feel free to suggest changes wherever you find me
   * Twitter: [\_keshv\_](https://twitter.com/_keshv_)
-  * Linkedin: [Keshav Raj](https://www.linkedin.com/in/keshav-raj-666771187)
+  * Linkedin: [Keshav Raj](https://www.linkedin.com/in/k-e-s-h-a-v)
   * Email: keshav.rajsspn@gmail.com
