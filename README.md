@@ -1,4 +1,5 @@
 # aku_result_bot
+* See the code in action at https://youtu.be/zvbGDKj6_os
 * I created a simple python program to check the results of my friends. 
 * python modules used: 
   1. urllib 
